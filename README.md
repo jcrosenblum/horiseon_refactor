@@ -2,7 +2,7 @@
 
 ## Description
 
-This refactor was created in order to make the website more accessible and thus improve SEO. It consolidates and organizes the application's CSS elements to follow semantic structure. It also fixes a broken link in the HTML, and edits HTML tags to improve semantics.
+The goal of this refactor is to make the website more accessible and thus improve SEO. It consolidates and organizes the application's CSS elements to follow semantic structure. It also fixes a broken link in the HTML, and edits HTML tags to improve semantics.
 
 ## Installation
 
